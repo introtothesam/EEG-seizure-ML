@@ -66,5 +66,16 @@ Seizure detection from EEG is a fundamental problem in clinical neurophysiology 
 For a full summary of the pipeline and results, see:  
 **P4_project_wrap_up.ipynb**
 
+---
+
+## Authorization and Data Use
+
+This project uses the publicly available **Bonn EEG dataset**, which is fully de-identified and released for research and educational purposes. No protected health information (PHI) is included.
+
+All analyses in this repository are performed solely on publicly released data and comply with the dataset’s permitted use guidelines. No proprietary or restricted clinical data were used.
+
+The code in this repository is authored by Chenyi Dai and is released for academic, non-commercial use. Users may reference or adapt the code with appropriate attribution.
+
+This project is intended for educational and research demonstration purposes only and does not constitute clinical diagnostic software.
 
 
