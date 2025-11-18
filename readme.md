@@ -1,3 +1,5 @@
+![DWT Overview](DWT.png)
+
 # EEG Seizure Detection: Signal Processing and Machine Learning Pipeline
 
 This repository contains a research-oriented implementation of an EEG seizure detection pipeline using the Bonn EEG dataset. The project integrates classical signal-processing methods with machine-learning models to evaluate how well engineered time–frequency features can discriminate seizure from non-seizure neural activity.
